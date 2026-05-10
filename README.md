@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riaz-ahmad-butt/">
+  <a href="[https://www.linkedin.com/in/riaz-ahmad-butt/](https://linkedin.com/in/riaz-ahmad-butt)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Engr-Riaz-Ahmad-Butt/riaz-portfolio">
@@ -69,7 +69,7 @@ I'm a passionate **Full Stack Developer** with hands-on experience building dyna
 I'm actively looking for **remote opportunities** and **freelance projects**. If you have an exciting project or role, feel free to reach out!
 
 <p>
-  <a href="https://www.linkedin.com/in/riaz-ahmad-butt/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="[https://www.linkedin.com/in/riaz-ahmad-butt/](https://linkedin.com/in/riaz-ahmad-butt)">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Engr-Riaz-Ahmad-Butt/riaz-portfolio">🌐 Portfolio</a>
 </p>
 
