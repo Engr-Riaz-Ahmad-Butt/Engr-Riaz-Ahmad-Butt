@@ -32,6 +32,8 @@ These repositories show different stages of development. Each project's document
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 - **Backend & data:** Node.js, Express, REST APIs, PostgreSQL, MongoDB, Prisma, Sequelize
+- **Python & APIs:** Python, FastAPI, Flask, SQLAlchemy, Pydantic
+- **Data & machine learning:** NumPy, SciPy, scikit-learn, PyTorch, LightGBM, CatBoost
 - **AI products:** LLM API integration, structured AI responses, resume analysis, document workflows
 - **Real-time applications:** WebRTC, Socket.IO
 - **State & tooling:** React Query, Zustand, Git, GitHub
